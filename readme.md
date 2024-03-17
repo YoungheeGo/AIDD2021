@@ -65,3 +65,5 @@ Cr, AST, ALT, ALT, ALP, GGT*Gender, GGT+ALP
 
 loss: 1보다 큼 => recall 상승 (recall=tp/(tp+fn))
 loss: 1보다 작음 => precision 상승 (precision=tp/(tp+fp))
+
+끝.
